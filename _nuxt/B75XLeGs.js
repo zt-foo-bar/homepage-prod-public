@@ -1,0 +1,1 @@
+import{D as e,_ as t,b as n,mt as r}from"./DZo3dYLJ.js";import{n as i,r as a}from"#entry";var o={};function s(a,o){let s=i;return r(),n(`div`,null,[o[0]||=t(`div`,null,` User `,-1),e(s)])}var c=a(o,[[`render`,s]]);export{c as default};

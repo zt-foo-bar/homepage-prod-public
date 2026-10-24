@@ -1,0 +1,1 @@
+import{_ as e,b as t,mt as n}from"./DZo3dYLJ.js";import{r}from"#entry";var i={};function a(r,i){return n(),t(`div`,null,[...i[0]||=[e(`span`,null,`404 Not Found`,-1),e(`span`,null,`啊偶 页面消失啦！`,-1)]])}var o=r(i,[[`render`,a]]);export{o as default};

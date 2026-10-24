@@ -1,0 +1,1 @@
+import{b as e,er as t,k as n,mt as r,vn as i,xt as a}from"./DZo3dYLJ.js";import{r as o}from"#entry";var s=o(n({__name:`DynamicBackground`,setup(n){let o=i(``);return i(null),(n,i)=>(r(),e(`div`,{style:t({backgroundImage:`url('${o.value}')`})},[a(n.$slots,`default`,{},void 0,!0)],4))}}),[[`__scopeId`,`data-v-b56b7540`]]);export{s as default};
